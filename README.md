@@ -1,24 +1,5 @@
-# README
+# FrontendFun
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This repository is a simple skeleton Rails app, configured with the Webpacker gem for Webpack integration, and with Vue.js and React added and setup.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This accompanies the blog post [Frontend Fun with Rails 5.1 and Webpacker](https://ejdraper.com/2018/01/08/frontend-fun-with-rails-5-1-and-webpacker/).
